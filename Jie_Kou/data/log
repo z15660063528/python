@@ -1,0 +1,12 @@
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 231 2020-12-25 11:55:56,598 Starting new HTTP connection (1): v.juhe.cn:80
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 461 2020-12-25 11:55:56,750 http://v.juhe.cn:80 "POST /movie/index HTTP/1.1" 200 None
+10 DEBUG C:\Users\Xx\PycharmProjects\Jie_Kou\testcase\test_YingXun.py test_YingXun.py 18 2020-12-25 11:55:56,753 获取两个参数
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 231 2020-12-25 11:55:56,781 Starting new HTTP connection (1): v.juhe.cn:80
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 461 2020-12-25 11:55:56,898 http://v.juhe.cn:80 "POST /movie/index HTTP/1.1" 200 None
+10 DEBUG C:\Users\Xx\PycharmProjects\Jie_Kou\testcase\test_YingXun.py test_YingXun.py 18 2020-12-25 11:55:56,899 获取两个参数
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 231 2020-12-25 11:55:56,913 Starting new HTTP connection (1): v.juhe.cn:80
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 461 2020-12-25 11:55:57,031 http://v.juhe.cn:80 "POST /movie/index HTTP/1.1" 200 None
+10 DEBUG C:\Users\Xx\PycharmProjects\Jie_Kou\testcase\test_YingXun.py test_YingXun.py 18 2020-12-25 11:55:57,032 获取两个参数
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 231 2020-12-25 11:55:57,045 Starting new HTTP connection (1): v.juhe.cn:80
+10 DEBUG E:\Python37\lib\site-packages\urllib3\connectionpool.py connectionpool.py 461 2020-12-25 11:55:57,161 http://v.juhe.cn:80 "POST /movie/index HTTP/1.1" 200 None
+10 DEBUG C:\Users\Xx\PycharmProjects\Jie_Kou\testcase\test_YingXun.py test_YingXun.py 18 2020-12-25 11:55:57,162 获取两个参数

@@ -1,0 +1,84 @@
+{
+  "uid" : "85cc70750d361f32",
+  "name" : "test_1[Search_movie0]",
+  "fullName" : "test_fixture_run#test_1",
+  "historyId" : "537a167b691d290e4875340758ff10b4",
+  "time" : {
+    "start" : 1608881117782,
+    "stop" : 1608881117782,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Search_movie",
+    "time" : {
+      "start" : 1608881117568,
+      "stop" : 1608881117779,
+      "duration" : 211
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a94911f5e7fd275",
+      "name" : "log",
+      "source" : "3a94911f5e7fd275.txt",
+      "type" : "text/plain",
+      "size" : 61
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T4NQ605"
+  }, {
+    "name" : "thread",
+    "value" : "5772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Search_movie",
+    "value" : "('099889c8017a4d45971ee70d5bfcb551', '长江流域')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85cc70750d361f32.json",
+  "parameterValues" : [ "('099889c8017a4d45971ee70d5bfcb551', '长江流域')" ]
+}

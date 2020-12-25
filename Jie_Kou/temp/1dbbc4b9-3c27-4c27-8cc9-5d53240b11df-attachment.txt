@@ -1,0 +1,1 @@
+ERROR    root:test_fixture_run.py:18 无效值的成功测试

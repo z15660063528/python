@@ -1,0 +1,84 @@
+{
+  "uid" : "e503148619ffe3bd",
+  "name" : "test_1[Search_movie2]",
+  "fullName" : "test_fixture_run#test_1",
+  "historyId" : "2b501d6dafb24069313d0dcf58c4be54",
+  "time" : {
+    "start" : 1608881118035,
+    "stop" : 1608881118035,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Search_movie",
+    "time" : {
+      "start" : 1608881117923,
+      "stop" : 1608881118034,
+      "duration" : 111
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "582d1074411c1a5b",
+      "name" : "log",
+      "source" : "582d1074411c1a5b.txt",
+      "type" : "text/plain",
+      "size" : 61
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T4NQ605"
+  }, {
+    "name" : "thread",
+    "value" : "5772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Search_movie",
+    "value" : "('234567890--=09876543234567890989', '基调裁定书')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e503148619ffe3bd.json",
+  "parameterValues" : [ "('234567890--=09876543234567890989', '基调裁定书')" ]
+}

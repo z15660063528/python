@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_1[Search_movie0]",
+    "uid" : "85cc70750d361f32",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608881117782,
+      "stop" : 1608881117782,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "('099889c8017a4d45971ee70d5bfcb551', '长江流域')" ]
+  }, {
+    "name" : "test_1[Search_movie1]",
+    "uid" : "a2423c94c382eb6b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608881117908,
+      "stop" : 1608881117910,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "('wqertyuiotyvgubhjdcsyvghjuvhjcdc', '太湖流域')" ]
+  }, {
+    "name" : "test_1[Search_movie2]",
+    "uid" : "e503148619ffe3bd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608881118035,
+      "stop" : 1608881118035,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "('234567890--=09876543234567890989', '基调裁定书')" ]
+  } ]
+}

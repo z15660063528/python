@@ -1,0 +1,84 @@
+{
+  "uid" : "a2423c94c382eb6b",
+  "name" : "test_1[Search_movie1]",
+  "fullName" : "test_fixture_run#test_1",
+  "historyId" : "1b283bf9e3586e2f49d405ef5a90eeb6",
+  "time" : {
+    "start" : 1608881117908,
+    "stop" : 1608881117910,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Search_movie",
+    "time" : {
+      "start" : 1608881117788,
+      "stop" : 1608881117907,
+      "duration" : 119
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "705a198465cbf946",
+      "name" : "log",
+      "source" : "705a198465cbf946.txt",
+      "type" : "text/plain",
+      "size" : 61
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-T4NQ605"
+  }, {
+    "name" : "thread",
+    "value" : "5772-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_fixture_run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Search_movie",
+    "value" : "('wqertyuiotyvgubhjdcsyvghjuvhjcdc', '太湖流域')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2423c94c382eb6b.json",
+  "parameterValues" : [ "('wqertyuiotyvgubhjdcsyvghjuvhjcdc', '太湖流域')" ]
+}
