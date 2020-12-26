@@ -6,7 +6,7 @@
 import yaml
 
 def Read(file):
-    with open(file,'r') as f:
+    with open(rf"{file}",'r') as f:
         r=yaml.safe_load(f)
     Data=list(zip(r['key_1'],r['name']))
     print(Data)
