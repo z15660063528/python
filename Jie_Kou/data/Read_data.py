@@ -6,9 +6,9 @@
 import yaml
 
 def Read(file):
-    with open(rf"{file}",'r') as f:
+    with open(rf"{file}","r") as f:
         r=yaml.safe_load(f)
-    Data=list(zip(r['key_1'],r['name']))
+    Data=list(zip(r["key_1"],r["name"]))
     print(Data)
     return Data
 # Read('Ying_data.yaml')
