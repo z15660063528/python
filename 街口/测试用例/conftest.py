@@ -8,7 +8,7 @@ import requests
 from data.Read_data import Read
 # 使用fixture夹具来将请求的函数变为公共代码，需要调用的时候直接写函数名字就行
 @pytest.fixture(scope='function',
-                params=Read(r'‪‪E:\a\Jie_Kou\data\Ying_data.yaml'),
+                params=Read(r'‪‪Ying_data.yaml'),
                 # 使用这种方式必须得在fixture中用parames传参
                 name='Search_movie',
                 autouse=True)
